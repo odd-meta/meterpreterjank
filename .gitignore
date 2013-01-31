@@ -166,3 +166,6 @@ pip-log.txt
 
 *.sublime-project
 *.sublime-workspace
+
+# exe files
+*.exe
