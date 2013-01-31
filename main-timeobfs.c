@@ -98,8 +98,8 @@ int main(int argc) {
 	char argv[3][25];
 	int num1, num2, num3;
 
-	strcpy(argv[1],"10.1.225.101");
-	strcpy(argv[2],"4445");
+	strcpy(argv[1],"10.20.20.5");
+	strcpy(argv[2],"4444");
 
 	MSG msg;
 	DWORD tc;
